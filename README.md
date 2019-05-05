@@ -1,2 +1,1 @@
-# datascience
-Experience in data science
+Experiments in Data Science
